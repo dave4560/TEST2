@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435392780332",
+    "project_id": "poc5-4757c",
+    "storage_bucket": "poc5-4757c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435392780332:android:4dd37cf63cb8a330621989",
+        "android_client_info": {
+          "package_name": "com.example.poc5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IOfVZCzOYPcfMGR3FKhHEbx-OuZjFqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
